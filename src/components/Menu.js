@@ -37,7 +37,7 @@ const Menu = () => {
       <div className="row mt-4">
         <div className="col-12">
           <div className="alert alert-info" role="alert">
-            <strong>Nota Importante:</strong> Como padre, puedes decidir si proporcionarle o no estos alimentos a tu hijo ese día (Cumpliendo el requerimiento PB01).
+            <strong>Nota Importante:</strong> Como padre, puedes decidir si proporcionarle o no estos alimentos a tu hijo ese día.
           </div>
         </div>
       </div>
