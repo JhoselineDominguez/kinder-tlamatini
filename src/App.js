@@ -4,6 +4,7 @@ import NavBar from './components/NavBar';
 import Dashboard from './components/Dashboard';
 import Profile from './components/Profile';
 import Menu from './components/Menu';
+import Footer from './components/Footer';
 import Payments from './components/Payments';
 import Notifications from './components/Notifications';
 
@@ -18,6 +19,7 @@ const App = () => {
         <Route path="/payments" element={<Payments />} />
         <Route path="/notifications" element={<Notifications />} />
       </Routes>
+      <Footer />
     </Router>
   );
 };

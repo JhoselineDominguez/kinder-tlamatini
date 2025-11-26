@@ -15,7 +15,7 @@ const Menu = () => {
         <div className="col-12 text-center mb-4">
           <h2 className="text-primary fw-bold">Menú Semanal - Desayunos</h2>
           <p className="lead text-muted">
-            Semana del 10 al 14 de Marzo. ¡Elige con amor!
+            Semana del 24 al 28 de Noviembre. ¡Elige con amor!
           </p>
           <hr />
         </div>
