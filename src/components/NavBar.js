@@ -8,7 +8,7 @@ const NavBar = () => {
         <li><Link to="/" style={styles.link}>Inicio</Link></li>
         <li><Link to="/menu" style={styles.link}>Menú</Link></li>
         <li><Link to="/payments" style={styles.link}>Pagos</Link></li>
-        <li><Link to="/notifications" style={styles.link}>Notificaciones</Link></li>
+        <li><Link to="/notifications" style={styles.link}>Notificaciones y Mensajeria</Link></li>
         <li><Link to="/profile" style={styles.link}>Perfil</Link></li>
       </ul>
     </nav>

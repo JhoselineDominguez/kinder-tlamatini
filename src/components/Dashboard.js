@@ -10,7 +10,7 @@ const Dashboard = () => {
       </div>
       <div style={styles.section}>
         <h2>Estado de Pagos</h2>
-        <p>No tienes pagos pendientes.</p>
+        <p>Tienes 1 pago pendiente.</p>
       </div>
       <div style={styles.section}>
         <h2>Notificaciones Recientes</h2>
