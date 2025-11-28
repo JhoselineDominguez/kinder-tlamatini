@@ -7,6 +7,7 @@ import Menu from './components/Menu';
 import Footer from './components/Footer';
 import Payments from './components/Payments';
 import Notifications from './components/Notifications';
+import MenuSelectionPage from './components/MenuSelectionPage';
 
 const App = () => {
   return (
@@ -18,6 +19,7 @@ const App = () => {
         <Route path="/menu" element={<Menu />} />
         <Route path="/payments" element={<Payments />} />
         <Route path="/notifications" element={<Notifications />} />
+        <Route path="/menu-selection" element={<MenuSelectionPage />} />
       </Routes>
       <Footer />
     </Router>

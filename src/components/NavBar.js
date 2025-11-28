@@ -10,6 +10,7 @@ const NavBar = () => {
         <li><Link to="/payments" style={styles.link}>Pagos</Link></li>
         <li><Link to="/notifications" style={styles.link}>Notificaciones y Mensajeria</Link></li>
         <li><Link to="/profile" style={styles.link}>Perfil</Link></li>
+        <li><Link to="/menu-selection" style={styles.link}>Gestionar Menú</Link></li> 
       </ul>
     </nav>
   );
