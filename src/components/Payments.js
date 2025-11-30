@@ -2,9 +2,9 @@ import React from 'react';
 
 const PaymentsPage = () => {
   const transactionHistory = [
-    { id: 1, date: '2025-08-01', description: 'Cuota de Desayuno - Agosto', amount: 850.00, status: 'Pagado' },
-    { id: 2, date: '2025-07-01', description: 'Cuota de Desayuno - Julio', amount: 850.00, status: 'Pagado' },
-    { id: 3, date: '2025-09-01', description: 'Cuota de Desayuno - Septiembre', amount: 850.00, status: 'Pendiente' },
+    { id: 1, date: '2025-08-01', description: 'Cuota de Desayuno - Agosto', amount: 250.00, status: 'Pagado' },
+    { id: 2, date: '2025-07-01', description: 'Cuota de Desayuno - Julio', amount: 250.00, status: 'Pagado' },
+    { id: 3, date: '2025-09-01', description: 'Cuota de Desayuno - Septiembre', amount: 250.00, status: 'Pendiente' },
   ];
 
   return (
